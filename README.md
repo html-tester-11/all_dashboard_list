@@ -22,7 +22,7 @@ list of entire bootstrap dashboard
 - Hierapolis – A Bold Bootstrap Admin Template   https://github.com/lab2023/hierapolis
 - Bootstrap Admin Theme   https://github.com/VinceG/Bootstrap-Admin-Theme
 - Devoops    https://github.com/nnmware/devoops
-- blankon   http://themes.djavaui.com/blankon-fullpack-admin-theme/documentation/admin/html/live-preview-documentation.html
+- blankon   http://wrapbootstrap.com/preview/WB09J8G43
 
    
 
