@@ -6,7 +6,7 @@ list of entire bootstrap dashboard
 - Light Bootstrap Dashboard  https://github.com/creativetimofficial/light-bootstrap-dashboard
 - Material Dashboard – Bootstrap Material Design Admin https://www.creative-tim.com/product/material-dashboard
 - Laravel Admin Bootstrap Template https://github.com/rose1988c/Laravel-Bootstrap-Admin-Template
-- BootFlat Open-Source Admin Dashboard Flat UI Kit https://github.com/silverbux/bootflat-admin
+- Boot Open-Source Admin Dashboard Flat UI Kit https://github.com/silverbux/bootflat-admin
 - Startmin Admin Dashboard Template https://github.com/secondtruth/startmin
 - Paper Dashboard Bootstrap Admin Template  https://www.creative-tim.com/product/paper-dashboard
 - Blocks – A Single-Page Widgetised Admin Template   http://www.prepbootstrap.com/bootstrap-theme/single-page-admin
@@ -55,6 +55,23 @@ list of entire bootstrap dashboard
 - Ace  http://responsiweb.com/themes/preview/ace/1.3.4/ https://github.com/bopoda/ace/archive/master.zip
 - DashGum  http://www.blacktie.co/demo/dashgum/ http://bit.ly/1HwrFdR
 - Genesis UI https://github.com/mrholek/GenesisUI 
+- Se7en https://themeforest.net/item/se7en-bootstrap-3-responsive-admin-template/5423243?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Maniac http://themeforest.net/item/maniac-bootstrap-admin-theme/8148958?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Bucket http://themeforest.net/item/bucket-admin-bootstrap-3-responsive-flat-dashboard/6642985?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Notebook http://themeforest.net/item/notebook-web-app-and-admin-template/6228450?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Angulr http://themeforest.net/item/angulr-bootstrap-admin-web-app-with-angularjs/8437259?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Metronic http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- 47Admin https://codecanyon.net/item/47admin-bootstrap-admin-skin/7647583?s_rank=1&utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Flat http://themeforest.net/item/flat-responsive-admin-template/4354008?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Melon http://themeforest.net/item/melon-flat-responsive-admin-template/5495486?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Josh https://codecanyon.net/item/josh-laravel-admin-template-front-end-crud/8754542?s_rank=2&utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- FlatLab http://themeforest.net/item/flatlab-bootstrap-3-responsive-admin-template/5902687?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Mars http://themeforest.net/item/mars-responsive-admin-bootstrap-3-template/5595380?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- ProUI http://themeforest.net/item/proui-responsive-bootstrap-admin-template/6769035?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- Gebo Admin http://themeforest.net/item/gebo-admin-responsive-template/2440015?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- It’s Brain http://themeforest.net/item/its-brain-responsive-bootstrap-3-admin-template/909197?utm_medium=referral&utm_campaign=envato_blog&utm_content=blog
+- 
+
 
 
 Paid
@@ -64,7 +81,7 @@ Paid
 
 SOurce:
 
-- 
--http://devfloat.net/bootstrap-website-templates-for-admin-dashboard/
+- *.io
+- http://devfloat.net/bootstrap-website-templates-for-admin-dashboard/
    
 
