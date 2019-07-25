@@ -2,6 +2,18 @@
 
 list of entire bootstrap dashboard 
 
+
+#Dark mode bootstrap dashboard
+
+Source : https://www.bootstrapdash.com/dark-admin-theme-templates/
+
+- Blur Admin     https://akveo.github.io/blur-admin/
+- Spin   http://v2.react.spin.webkom.co/dashboards/system
+- Data Viz UI  http://www.urbanui.com/datavizui/template/demo/vertical-default-dark/index.html
+
+
+# Bootstarp Dashboard
+
 - Core UI dashboard free/pro   http://coreui.io /  http://coreui.io/demo/pro/Ajax_Demo/#main.html 
 - Light Bootstrap Dashboard  https://github.com/creativetimofficial/light-bootstrap-dashboard
 - Material Dashboard – Bootstrap Material Design Admin https://www.creative-tim.com/product/material-dashboard
